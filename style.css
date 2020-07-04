@@ -21,15 +21,3 @@ h1{
     text-align:center;
     padding-top:30px;
   }
-  #homeimage{
-    border: 5px solid white;
-    display:grid;
-    grid-template-columns: 1fr 1fr;
-    text-align:center;
-  }
-  #imagecomment{
-    border : 5px solid white;
-    display:grid;
-    grid-template-columns: 1fr 1fr;
-    text-align: center;
-  }
